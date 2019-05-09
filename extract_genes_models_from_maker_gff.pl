@@ -1,6 +1,6 @@
 #!/usr/bin/perl -w
 
-#usage:  $0 < input.gff > output.gff
+#usage:  ./extract_genes_models_from_maker_gff.pl < input.gff > output.gff
 
 use strict;
 
